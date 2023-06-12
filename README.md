@@ -1,0 +1,2 @@
+# Firzan-resolusi
+Repositori Gwej
