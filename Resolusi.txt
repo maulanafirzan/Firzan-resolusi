@@ -2,3 +2,7 @@ Resolusi Firzan:
 - Bisa bikin website dengan menggunakan html, css, dan javascript
 - Menguasai Python, Numpy, dan Excel
 - Farming ilmu
+- Membuat web:
+  - Web jualan produk
+  - Web restoran/Toko
+  - Web rangkuman catatan dan tugas kuliah
